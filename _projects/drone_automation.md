@@ -4,7 +4,6 @@ collection: projects
 type: "Student project"
 permalink: /projects/drone_automation
 venue: "CSIR - CEERI"
-date: 2020
 location: "Goa, Inda"
 ---
 

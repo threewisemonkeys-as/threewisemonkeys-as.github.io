@@ -3,7 +3,6 @@ title: "Exploration of RL Algorithms"
 collection: projects
 type: "Student project"
 permalink: /projects/rl_algos
-date: 2020
 location: "Goa, Inda"
 ---
 

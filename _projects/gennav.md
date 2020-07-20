@@ -4,7 +4,6 @@ collection: projects
 type: "Student project"
 permalink: /projects/gennav
 venue: "Electroincs and Robotics Club, BITS Pilani, Goa Campus"
-date: 2020
 location: "Goa, Inda"
 ---
 

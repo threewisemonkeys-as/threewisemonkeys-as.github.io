@@ -4,7 +4,6 @@ collection: projects
 type: "Student project"
 permalink: /projects/trotbot
 venue: "Electroincs and Robotics Club, BITS Pilani, Goa Campus"
-date: 2019
 location: "Goa, Inda"
 ---
 
