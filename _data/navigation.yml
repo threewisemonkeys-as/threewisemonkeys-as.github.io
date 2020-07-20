@@ -1,13 +1,11 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
 
   - title: "Projects"
-    url: /projects/    
+    url: projects/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: teaching/    
     
   - title: "CV"
-    url: /files/Atharv_Sonwane_CV.pdf
+    url: cv/

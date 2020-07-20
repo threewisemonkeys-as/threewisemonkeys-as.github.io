@@ -8,4 +8,4 @@ date: 2020-05-01
 location: "Goa, Inda"
 ---
 
-I created and was an instructor for a introductory summer workshop on Robotics and Automation
+I was instructor for a introductory course on Robotics and Automation in Summer 2020. I created reference material and assignments for the course as well as mentoring over 100 students. The course introduced the students to ROS, Basic Control Theory, Navigation and Path Planning. The complete course material can be viewed [here](https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS).
