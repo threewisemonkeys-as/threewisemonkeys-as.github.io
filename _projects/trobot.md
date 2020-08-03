@@ -7,7 +7,7 @@ venue: "Electroincs and Robotics Club, BITS Pilani, Goa Campus"
 location: "Goa, Inda"
 ---
 
-Trobot is a autonmous ground based robot designed to navigate in an indoor environment. Given a set of waypoints, Trobot will sequential travel to each point while dynamically avoiding obstacles in its environment.
+[[CODE](https://github.com/ERC-BPGC/Trotbot)] Trobot is a autonmous ground based robot designed to navigate in an indoor environment. Given a set of waypoints, Trobot will sequential travel to each point while dynamically avoiding obstacles in its environment.
 
 As part of the project I worked on implementing probabilisitic path planning algorithms in a ROS based navigation stack. The project also involved interfacing sensors such as an optical mouse, RPLIDAR and Intel Realsense D435i for localisation and obstacle detection. I am the project lead for 2020-2021 and we plan to develop Trobot as a research platform for various ground based navigation techniques.
 

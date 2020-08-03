@@ -1,9 +1,8 @@
 ---
-title: "Reinforcement Learning for Robotic Grasping"
+title: "Reinforcement Learning for Robotics"
 collection: research
 permalink: /research/grasping_rl
-venue: "Center of Robotics and Machine Intelligence, IIIT Allahbad"
+venue: "Center of Robotics and Machine Intelligence, IIIT Allahabad"
 ---
 
-Exploring and benchmarking how different Deep Reinforcement Learning algorithms can be used for grasping using robtic arms at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad under [Prof. Nandi](https://sites.google.com/site/gcnandi/)
-
+[[REPORT](../files/IIITA_Internship_Report.pdf)] Exploring and benchmarking how different Deep Reinforcement Learning algorithms can be used for robotics, especially Robotic Grasping at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad under [Prof. Nandi](https://sites.google.com/site/gcnandi/)
