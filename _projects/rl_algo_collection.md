@@ -5,7 +5,7 @@ permalink: /projects/rl_algos
 location: "Goa, Inda"
 ---
 
-As part of my interest in Deep Reinforcement Learning, I have explored and implemented algorithms proposed in various research papers to get a better understanding of the field.
+[[DETAILS](.)] As part of my interest in Deep Reinforcement Learning, I have explored and implemented algorithms proposed in various research papers to get a better understanding of the field.
 
 - RL with Causal Factors ([link](https://github.com/threewisemonkeys-as/causal-rl))
 - RL using Relational Inductive Biases ([link](https://github.com/threewisemonkeys-as/relational-rl))
