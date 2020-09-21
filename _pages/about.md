@@ -16,5 +16,5 @@ A collection of my [research](../research) and [projects](../projects) can be vi
 
 # Recent News
 
-- June 2020. Completed research iternship at [CSIR - CEERI](ceeri.res.in). [Overview](../projects/drone_automation).
-- May 2020. I will be working at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad under [Prof. Nandi](https://sites.google.com/site/gcnandi/)
+- Summer 2020. Completed research iternship at [CSIR - CEERI](ceeri.res.in). [Overview](../projects/drone_automation).
+- Summer 2020. Completed research iternship at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad under [Prof. Nandi](https://sites.google.com/site/gcnandi/)
