@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an udergraduate student at the Computer Science Department at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/), interested in Artificial Intelligence, specifically in the areas of deep learning, reinforcement learning and their applications in robotics. I am also exploring how RL algorithms can be made more generalizable through human learning priors such as [causality](https://github.com/threewisemonkeys-as/causal-rl), [relational biases](https://github.com/threewisemonkeys-as/relational-rl) and meta learning.
+I am an udergraduate student at the Computer Science Department at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/), interested in Artificial Intelligence, specifically in the areas of deep learning, **reinforcement learning** and their applications in **robotics**. I am also exploring how RL algorithms can be made more generalizable through human learning priors such as [causality](https://github.com/threewisemonkeys-as/causal-rl), [relational biases](https://github.com/threewisemonkeys-as/relational-rl) and meta learning.
 
 Previously, I have worked on using Deep Reinforcement Learning algorithms for robotics as a research intern at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad. I have also worked as a summer intern at [CSIR - CEERI](https://www.ceeri.res.in/) on the applications of Deep RL for navigation in aerial vehicals.
 
