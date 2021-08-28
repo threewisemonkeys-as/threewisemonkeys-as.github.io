@@ -18,8 +18,9 @@ My [CV](../files/Atharv_Sonwane_CV.pdf) along with a collection of my [research]
 
 # Recent News
 
+- August 2021. I'll be a Teaching Assistant for BITS F425 (Deep Learning) which is being run for the first time at BITS Pilani, Goa
 - June 2021: I'll be interning at [TCS Research](https://www.tcs.com/tcs-research) over the summer.
 - January 2021. I'll be working at [APPCAIR](https://www.bits-pilani.ac.in/appcair/) with [TCS Research](https://www.tcs.com/tcs-research) on Bayesian Neural Program Syenthesis.
-- January 2021. I'll be a Teaching Assistant for BITS F464 (Machine Learning) at BITS Pilani, Goa\
+- January 2021. I'll be a Teaching Assistant for BITS F464 (Machine Learning) at BITS Pilani, Goa.
 - Summer 2020. Completed research internship at [CSIR - CEERI](ceeri.res.in). [Overview](../projects/drone_rl).
 - Summer 2020. Completed research internship at the [Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/), IIIT Allahbad under [Prof. Nandi](https://sites.google.com/site/gcnandi/)
