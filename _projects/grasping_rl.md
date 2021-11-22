@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning for Robotics"
-collection: research
-permalink: /research/grasping_rl
+collection: projects
+permalink: /projects/grasping_rl
 venue: "Center of Robotics and Machine Intelligence, IIIT Allahabad"
 ---
 

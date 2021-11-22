@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "CV"
+    url: cv/
 
   - title: "Research"
     url: research/    
@@ -10,5 +12,3 @@ main:
   - title: "Teaching"
     url: teaching/    
     
-  - title: "CV"
-    url: cv/
