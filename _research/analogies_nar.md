@@ -6,6 +6,8 @@ venue: 'Accepted at the AAAI-22 Student Abstract and Poster Program'
 paperurl: 'https://arxiv.org/abs/2110.09947'
 ---
 
+_Accepted at the AAAI-22 Student Abstract and Poster Program_
+
 We consider a class of visual analogical reasoning problems that involve discovering the sequence of transformations by which pairs of input/output images are related, so as to analogously transform future inputs. This program synthesis task can be easily solved via symbolic search. Using a variation of the neural analogical reasoning approach of (Velickovic and Blundell 2021), we instead search for a sequence of elementary neural network transformations that manipulate distributed representations derived from a symbolic space, to which input images are directly encoded. We evaluate the extent to which our `neural reasoning' approach generalizes for images with unseen shapes and positions.
 
-[Download paper here](https://arxiv.org/abs/2111.10361)
+[Arxiv](https://arxiv.org/abs/2111.10361)
